@@ -69,10 +69,10 @@
         <!-- Modificat de aici -->
       @if (Auth::guest())
           <li>
-            <a class="nav-link" href="{{ url('/auth/login') }}">Login</a>
+            <a class="nav-link" href="{{ url('/auth/login') }}">Logare</a>
           </li>
           <li>
-            <a class="nav-link" href="{{ url('/auth/register') }}">Register</a>
+            <a class="nav-link" href="{{ url('/auth/register') }}">Înregistrare</a>
           </li>
           @else
           <li class="nav-item dropdown">
