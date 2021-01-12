@@ -1,0 +1,70 @@
+.card {
+    margin-top: 40px;
+    font-family: 'Roboto', serif;
+    text-align: justify;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    color: lightcoral;
+}
+
+.card-body {
+    padding:30px;
+    width: 1000px;
+}
+
+.user-name {
+    font-size: large;
+}
+
+.titlu-site {
+    color: #5bc0de;
+    font-size: xx-large;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;  
+    background-color: #5bc0de;
+  }
+
+.top-part {
+    text-align: center;
+    padding: 10px;
+}
+
+.posts-title {
+    padding-top: 40px;
+    color: #5bc0de;
+}
+
+.posts-section {
+    padding-bottom: 50px;
+}
+
+.page-title {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    color: #5bc0de;
+}
+
+.title-info {
+    padding-top:20px;
+    font-weight: 700;
+}
+
+.comment-section {
+    padding-top:20px;
+    width: 600px;
+}
+
+.list-group-item {
+    width: 650px;
+}
